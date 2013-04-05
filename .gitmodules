@@ -1,0 +1,6 @@
+[submodule "comanche-pojo"]
+	path = comanche-pojo
+	url = git://github.com/rouvoy/comanche-pojo.git
+[submodule "comanche-guice"]
+	path = comanche-guice
+	url = git://github.com/rouvoy/comanche-guice.git
